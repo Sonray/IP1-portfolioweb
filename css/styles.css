@@ -13,8 +13,14 @@
 .david{
     color: white;
     display: flex;
+    text-align: center;
 }
 footer{
     height: 20vh;
     background-color: yellow;
+}
+img{
+    border-radius: 50%;
+    width: 20vw;
+    height: 40vh;
 }
