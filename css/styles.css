@@ -1,0 +1,19 @@
+#header, #body{
+    height: 80vh;
+}
+#header{
+    width: 30vw;
+    background-color: #230E0E;
+}
+#body{
+    width: 70vw;
+    float: right;
+    background-color: red;
+}
+.david{
+    display: flex;
+}
+footer{
+    height: 20vh;
+    background-color: yellow;
+}
