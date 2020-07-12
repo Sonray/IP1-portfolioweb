@@ -24,3 +24,11 @@ img{
     width: 20vw;
     height: 40vh;
 }
+ul li a {
+    text-decoration: none;
+    text-decoration-color: white;
+    font-size: 50px;
+}
+nav li {
+    list-style-type: none;
+}
