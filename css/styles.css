@@ -35,6 +35,8 @@ nav li {
     list-style-type: none;
 }
 footer a img {
+    margin-top: 3vh;
+    border-radius: 10%;
     width: 10vw;
     height: 15vh;
     object-fit: fill;
