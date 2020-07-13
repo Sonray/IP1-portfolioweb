@@ -8,7 +8,7 @@
 This Web application is about David Okwacha, his achievements and all the projects he has done over his short time on earth and it therefore acts as His portfolio.
 
 ## GitHub pages live link
-https://sonray.github.io/Group-DAlex/
+https://sonray.github.io/IP1-portfolioweb/
 
 ## PS
 Not like He is dying anytime soon :-)
