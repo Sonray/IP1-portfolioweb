@@ -1,5 +1,5 @@
 #header, #body{
-    height: 80vh;
+    height: 87vh;
 }
 #header{
     width: 30vw;
@@ -67,4 +67,10 @@ h3 {
 }
 strong {
     font-size: 30px;
+}
+#list ol li:first-child {
+    list-style-image: url("../images/icons8-html-5-36.png");
+}
+#list ol li:last-child {
+    list-style-image: url("../images/icons8-css3-36.png");
 }
