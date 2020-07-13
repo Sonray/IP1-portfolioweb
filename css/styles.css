@@ -51,3 +51,20 @@ ol {
 ol li a {
     text-decoration: none;
 }
+#abody{
+    width: 70vw;
+    float: right;
+    background-color: red;
+    font-size: 20px;
+}
+h2 {
+    font-size: 40px;
+    color: black;
+}
+h3 {
+    font-size: 30px;
+    color: black;
+}
+strong {
+    font-size: 30px;
+}
