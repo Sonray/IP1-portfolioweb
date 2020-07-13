@@ -9,6 +9,7 @@
     width: 70vw;
     float: right;
     background-color: red;
+    font-size: 40px;
 }
 .david{
     color: white;
@@ -40,4 +41,13 @@ footer a img {
     width: 10vw;
     height: 15vh;
     object-fit: fill;
+}
+ol {
+    width: 20vw;
+    margin-left: 30%;
+    text-align: left;
+    font-size: 50px;
+}
+ol li a {
+    text-decoration: none;
 }
