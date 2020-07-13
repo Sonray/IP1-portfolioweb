@@ -74,3 +74,8 @@ strong {
 #list ol li:last-child {
     list-style-image: url("../images/icons8-css3-36.png");
 }
+#sa {
+    font-size: 20px;
+    width: 60vw;
+    margin-left: 1vw;
+}
